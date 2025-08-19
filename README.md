@@ -1,2 +1,2 @@
 # biubiu_bot
-Discord bot test
+Simple discord bot for fun
